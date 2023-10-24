@@ -1,13 +1,13 @@
 
-const imageFilenames = ['pic1.jpg', 'pic2.jpg', 'pic3.jpg', 'pic4.jpg', 'pic5.jpg'];
+const imageFilenames = ['pic1.png', 'pic2.png', 'pic3.png', 'pic4.png', 'pic5.png'];
 
 
 const imageAltText = {
-  'pic1.jpg': 'Closeup of a blue human eye',
-  'pic2.jpg': 'A mountain landscape',
-  'pic3.jpg': 'White and purple flowers',
-  'pic4.jpg': 'A wall painting',
-  'pic5.jpg': 'A Yellow butterfly'
+  'pic1.png': 'Taj Mahal ',
+  'pic2.png': 'Taj Mahal',
+  'pic3.png': 'Qutub Minar',
+  'pic4.png': 'India gate',
+  'pic5.png': 'Manali'
 };
 
 
